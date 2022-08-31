@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Neeraj Roy, @blacklistperformer
+- 👀 I’m interested in C/C++, Python, SQL, Matlab, OOPS, AIML
+- 🌱 I’m currently learning C++, Python, AIML
+- 💞️ I’m looking to collaborate on ... Not sure right now
+- 📫 How to reach me on instagram.com/blacklistperformer linkedin.com/in/neeraj-roy-556968192/
+- I hope one day I really become a good Programer
+
+<!---
+blacklistperformer/blacklistperformer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
