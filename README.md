@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++, Python, SQL, Matlab, OOPS, AIML
 - 🌱 I’m currently learning C++, Python, AIML
 - 💞️ I’m looking to collaborate on ... Not sure right now
-- 📫 How to reach me on instagram.com/blacklistperformer linkedin.com/in/neeraj-roy-556968192/
+- 📫 How to reach me on instagram.com/blacklistperformer linkedin.com/in/neeraj-roy-556968192/ and neerajroy06502@gmail.com
 - I hope one day I really become a good Programer
 
 <!---
